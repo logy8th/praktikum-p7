@@ -8,3 +8,9 @@ Kelas   : TI.20.A1
 NIM     : 312010174
 Dosen   : Agung Nugroho S.Kom, M.Kom
 </pre>
+
+# Latihan 1
+<br>
+Dibawah ini adalah latihan yang diberikan oleh Dosen : <br>
+
+![latihan1](latihan1/task.png)
