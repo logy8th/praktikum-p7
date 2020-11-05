@@ -12,7 +12,8 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 # Latihan 1
 <br>
 
-**Dibawah ini adalah latihan yang diberikan oleh Dosen :** <br>
+**Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 
 ![latihan1](latihan1/task.png)
 <br>
+
