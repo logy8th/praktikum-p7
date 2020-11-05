@@ -1,4 +1,6 @@
 # Tugas Pertemuan ke-7 [Senin 02-10-2020]
+### Simpan project Praktikum hari ini ke repository.
+### Buat penjelasan setiap Lab/Latihannya pada file README.md
 <br>
 <pre>
 Nama    : NAUFAL NIRWANSYAH
