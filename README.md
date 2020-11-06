@@ -3,7 +3,7 @@
 - ***Buat penjelasan setiap Lab/Latihannya pada file README.md***
 <br>
 <pre>
-Nama    : NAUFAL NIRWANSYAH
+Nama    : Naufal Nirwansyah 
 Kelas   : TI.20.A1
 NIM     : 312010174
 Dosen   : Agung Nugroho S.Kom, M.Kom
