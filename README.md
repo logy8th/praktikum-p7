@@ -9,10 +9,13 @@ NIM     : 312010174
 Dosen   : Agung Nugroho S.Kom, M.Kom
 </pre>
 
+***
+
 # Latihan 1
 <br>
 Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman saya untuk mengerjakan tugas membuat repo di github. <br>
-Dan pada `Latihan 1` ini saya diminta untuk membuat program dengan perulangan bertingkat (nested).
+
+Dan pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bertingkat (nested).
 
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 
