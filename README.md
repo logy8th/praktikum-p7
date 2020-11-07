@@ -11,9 +11,30 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 
 # Latihan 1
 <br>
+Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman, Bapak. Agung Nugroho,S.Kom.,M.Kom. untuk membuat Program yang menentukan Bilangan terbesar dari tiga nilai client/user.<br>
+Pada repository ini saya akan menjelaskan alur dalam Flowchart yang telah saya buat. File Flowchart bisa dilihat pada Link berikut ini : [[cari link direct-nya fall]]<br>
 
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 
 ![latihan1](latihan1/task.png)
 <br>
+<br>
+Untuk membuat program dengan input seperti diatas, saya menggunakan source code sebagai berikut: <br>
 
+```
+for row in range(0, 10):
+    for col in range(0, 10):
+        num = row + col
+        if num < 10:
+            empty = "  "
+        else:
+            if num < 100:
+                empty  = " "
+        print(empty, num, end = '')
+    print()
+```
+<br>
+
+**Source code diatas akan muncul result sebagai berikut:** <br>
+
+![Lat1](latihan1/lat1.png) <br>
