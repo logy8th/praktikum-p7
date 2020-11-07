@@ -11,9 +11,7 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 
 # Latihan 1
 <br>
-Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman, Bapak. Agung Nugroho,S.Kom.,M.Kom. untuk membuat Program yang menentukan Bilangan terbesar dari tiga nilai client/user.<br>
-Pada repository ini saya akan menjelaskan alur dalam Flowchart yang telah saya buat. File Flowchart bisa dilihat pada Link berikut ini : [[cari link direct-nya fall]]<br>
-
+Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman, Bapak. Agung Nugroho,S.Kom.,M.Kom. <br>
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 
 ![latihan1](latihan1/task.png)
