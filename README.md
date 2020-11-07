@@ -19,7 +19,7 @@ Dan pada 'Latihan 1' ini saya diminta untuk membuat program dengan perulangan be
 ![latihan1](latihan1/task.png)
 <br>
 <br>
-Untuk membuat program dengan input seperti diatas, saya menggunakan source code sebagai berikut: <br>
+Untuk membuat program untuk tugas diatas, saya menggunakan source code sebagai berikut: <br>
 
 ```
 for row in range(0, 10):
