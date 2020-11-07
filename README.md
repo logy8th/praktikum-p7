@@ -12,6 +12,8 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 # Latihan 1
 <br>
 Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman, Bapak. Agung Nugroho,S.Kom.,M.Kom. <br>
+Untuk membuat program dengan perulangan bertingkat (nested).
+
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 
 ![latihan1](latihan1/task.png)
