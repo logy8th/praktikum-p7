@@ -40,4 +40,4 @@ for row in range(0, 10):
 
 **Source code diatas akan muncul result sebagai berikut:** <br>
 
-![Lat1](latihan1/lat1.png) <br>
+![Lat1](latihan1/latt1.png) <br>
