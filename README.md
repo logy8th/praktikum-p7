@@ -44,6 +44,7 @@ for row in range(10):
 </div>
 <br>
 Maka muncul result seperti latihan diatas.<br>
+
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
 
 ***
@@ -86,9 +87,9 @@ for x in range (nilai):
 ***
 <p align="center">
 
-# Sekian Tugas Saya Untuk Project Praktikum P7, Terimkasih
+## Sekian Tugas Saya Untuk Project Praktikum P7, Terimakasih
 </p>
 <br>
 
 ![wm](pictures/tttd.png)<br>
-Naufal Nirwansyah :metal:
+Naufal Nirwansyah
