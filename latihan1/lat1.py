@@ -1,5 +1,5 @@
-for row in range(0, 10):
-    for col in range(0, 10):
+for row in range(10):
+    for col in range(10):
         num = row + col
         if num < 10:
             empty = "  "

@@ -25,8 +25,8 @@ Pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bert
 Untuk membuat program untuk tugas diatas, saya menggunakan source code sebagai berikut: <br>
 
 ```
-for row in range(0, 10):
-    for col in range(0, 10):
+for row in range(10):
+    for col in range(10):
         num = row + col
         if num < 10:
             empty = "  "
