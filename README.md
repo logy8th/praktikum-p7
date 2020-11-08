@@ -43,8 +43,8 @@ for row in range(10):
 <img src="latihan1/latt1.png" >
 </div>
 <br>
-Maka muncul result seperti latihan diatas.<br>
-
+Maka muncul result seperti diatas.<br>
+<br>
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
 <br>
 
