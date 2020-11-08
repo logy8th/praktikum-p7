@@ -81,3 +81,14 @@ for x in range (nilai):
 - range() berfungsi menghasilkan list <br>
 - masukkan `i = random.uniform (.0,.5)` di gunakan untuk menampilkan bilangan float random, lalu masukkan **a+=1** untuk memberi nomer pada bilangan float.<br>
 `print('data ke :',a,'==>', i)` untuk menampilkan output data.
+
+**
+
+<p align="center>
+
+## Sekian tugas saya untuk memenuhi tugas Project Praktikum P7
+## Terimakasih
+
+</p>
+
+![wm](pictures/ttd.png)
