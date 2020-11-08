@@ -41,9 +41,8 @@ for row in range(0, 10):
 **Source code diatas akan muncul result sebagai berikut:** <br>
 
 ![Lat1](latihan1/latt1.png) <br>
-
-Maka muncul result seperti latihan diatas. Dan **Latihan 1**
 <br>
+Maka muncul result seperti latihan diatas.<br>
 Penjelasan untuk source code diatas adalah sebagai berikut :
 ***
 
