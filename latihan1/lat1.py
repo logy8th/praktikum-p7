@@ -1,10 +1,9 @@
 for row in range(10):
     for col in range(10):
-        num = row + col
-        if num < 10:
+        number = row + col
+        if number < 10:
             empty = "  "
         else:
-            if num < 100:
-                empty  = " "
-        print(empty, num, end = '')
+            empty  = " "
+        print(empty, number, end = '')
     print()

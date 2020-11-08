@@ -63,7 +63,7 @@ for x in range (nilai):
     print('data ke :',a,'==>', i)
 ```
 **Source code diatas akan muncul result sebagai berikut:** <br>
-![lat2](latihan2/lat2.png)
+![lat2](latihan2/latt2.png)
 <br>
 
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
