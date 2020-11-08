@@ -89,5 +89,5 @@ for x in range (nilai):
 ***Terimakasih***<br>
 <br>
 
-![wm](pictures/tttd.png)
+![wm](pictures/tttd.png)<br>
 Naufal Nirwansyah
