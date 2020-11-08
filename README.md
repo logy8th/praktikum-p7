@@ -82,7 +82,8 @@ for x in range (nilai):
 - masukkan `i = random.uniform (.0,.5)` di gunakan untuk menampilkan bilangan float random, lalu masukkan **a+=1** untuk memberi nomer pada bilangan float.<br>
 `print('data ke :',a,'==>', i)` untuk menampilkan output data.
 
-**
+
+***
 
 <p align="center>
 
