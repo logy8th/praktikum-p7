@@ -70,9 +70,6 @@ for x in range (nilai):
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
 <br>
 
-Penjelasan:
-<br>
-
 - `import random` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak. <br>
 - `nilai = int(input('Masukan nilai n : '))` untuk menginputkan nilai berupa integer.<br>
 - range() berfungsi menghasilkan list <br>
