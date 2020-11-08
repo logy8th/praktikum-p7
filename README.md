@@ -48,11 +48,11 @@ Maka muncul result seperti latihan diatas.<br>
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
 <br>
 
--`for row in range(10):` dan `for col in range(10):` untuk membuat list 0-10<br>
--`num = row + col` nilai row dan col akan di tampung di variabel num<br>
--`if num < 10:` jika num lebh kecil dari 10 `maka empty = " "`<br>
--`else:` selain itu jika `if number < 10:` maka `empty = " "`<br>
--Dan cetak `print(empty, num, end = '')` `print()`
+- `for row in range(10):` dan `for col in range(10):` untuk membuat list 0-10<br>
+- `num = row + col` nilai row dan col akan di tampung di variabel num<br>
+- `if num < 10:` jika num lebh kecil dari 10 `maka empty = " "`<br>
+- `else:` selain itu jika `if number < 10:` maka `empty = " "`<br>
+- Dan cetak `print(empty, num, end = '')` `print()`
 
 ***
 
