@@ -86,12 +86,9 @@ for x in range (nilai):
 ***
 <p align="center">
 
-# Sekian Tugas Saya Untuk Project Praktikum P7 
-</p>
-
-<p style="font-size:70px">Terimakasih
+# Sekian Tugas Saya Untuk Project Praktikum P7, Terimkasih
 </p>
 <br>
 
 ![wm](pictures/tttd.png)<br>
-Naufal Nirwansyah
+Naufal Nirwansyah :metal:
