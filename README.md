@@ -68,11 +68,12 @@ for x in range (nilai):
 ```
 **Source code diatas akan muncul result sebagai berikut:** <br>
 <div align="center">
-<img src="latihan1/result2.png" >
+<img src="latihan2/result2.png" >
 </div>
 <br>
 
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
+
 <br>
 
 - `import random` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak. <br>
