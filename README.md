@@ -1,5 +1,5 @@
 # Tugas Pertemuan ke-7 [Senin 02-10-2020]
-- ***Simpan project Praktikum hari ini ke repository***
+- ***Simpan project Praktikum hari ini ke repository [Latihan 1 & Latihan 2]***
 - ***Buat penjelasan setiap Lab/Latihannya pada file README.md***
 <br>
 <pre>
