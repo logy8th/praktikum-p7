@@ -90,3 +90,4 @@ for x in range (nilai):
 <br>
 
 ![wm](pictures/tttd.png)
+Naufal Nirwansyah
