@@ -19,7 +19,7 @@ Pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bert
 
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 <div align="center">
-<img src="(latihan1/task.png" >
+<img src="latihan1/task.png" >
 <p>Perfectly balanced</p>
 </div>
 
