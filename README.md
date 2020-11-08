@@ -89,4 +89,4 @@ for x in range (nilai):
 ***Terimakasih***<br>
 <br>
 
-![wm](pictures/ttd.png)
+![wm](pictures/tttd.png)
