@@ -43,7 +43,8 @@ for row in range(0, 10):
 ![Lat1](latihan1/latt1.png) <br>
 <br>
 Maka muncul result seperti latihan diatas.<br>
-Penjelasan untuk source code diatas adalah sebagai berikut :
+**Penjelasan untuk source code diatas adalah sebagai berikut :**
+
 ***
 
 # Latihan 2
@@ -51,3 +52,19 @@ Penjelasan untuk source code diatas adalah sebagai berikut :
 Pada **Latihan 2** ini saya diminta untuk membuat program seperti gambar dibawah ini: <br>
 ![Lat2](latihan2/task.png)
 <br>
+Untuk membuat program untuk tugas diatas, saya menggunakan source code sebagai berikut: <br> 
+
+```
+import random
+nilai = int(input('Masukan nilai n : '))
+a = 0
+for x in range (nilai):
+    i = random.uniform(.0,.5)
+    a+=1
+    print('data ke :',a,'==>', i)
+```
+**Source code diatas akan muncul result sebagai berikut:** <br>
+![lat2](latihan2/lat2.png)
+<br>
+
+**Penjelasan untuk source code diatas adalah sebagai berikut :**
