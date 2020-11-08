@@ -68,3 +68,13 @@ for x in range (nilai):
 <br>
 
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
+<br>
+
+Penjelasan:
+<br>
+
+- `import random` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak. <br>
+- `nilai = int(input('Masukan nilai n : '))` untuk menginputkan nilai berupa integer.<br>
+- range() berfungsi menghasilkan list <br>
+- masukkan `i = random.uniform (.0,.5)` di gunakan untuk menampilkan bilangan float random, lalu masukkan **a+=1** untuk memberi nomer pada bilangan float.<br>
+`print('data ke :',a,'==>', i)` untuk menampilkan output data.
