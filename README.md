@@ -15,7 +15,7 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 <br>
 Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman saya untuk mengerjakan tugas membuat repo di github. <br>
 
-Dan pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bertingkat (nested).
+Pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bertingkat (nested).
 
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 
@@ -42,8 +42,13 @@ for row in range(0, 10):
 
 ![Lat1](latihan1/latt1.png) <br>
 
-Maka muncul result seperti latihan diatas. Dan **Latihan 1** selesai.
-
+Maka muncul result seperti latihan diatas. Dan **Latihan 1**
+<br>
+Penjelasan untuk source code diatas adalah sebagai berikut :
 ***
 
 # Latihan 2
+
+Pada **Latihan 2** ini saya diminta untuk membuat program seperti gambar dibawah ini: <br>
+![Lat2](latihan2/task.png)
+<br>
