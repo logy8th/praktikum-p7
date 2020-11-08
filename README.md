@@ -45,6 +45,7 @@ for row in range(10):
 <br>
 Maka muncul result seperti diatas.<br>
 <br>
+
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
 <br>
 
