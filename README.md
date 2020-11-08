@@ -20,10 +20,7 @@ Pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bert
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
 <div align="center">
 <img src="latihan1/task.png" >
-<p>Perfectly balanced</p>
 </div>
-
-![latihan1](latihan1/task.png)
 <br>
 <br>
 Untuk membuat program untuk tugas diatas, saya menggunakan source code sebagai berikut: <br>
@@ -42,9 +39,9 @@ for row in range(10):
 <br>
 
 **Source code diatas akan muncul result sebagai berikut:** <br>
-<p align="center">
-
-![Lat1](latihan1/latt1.png)</p> <br>
+<div align="center">
+<img src="latihan1/latt1.png" >
+</div>
 <br>
 Maka muncul result seperti latihan diatas.<br>
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
@@ -54,9 +51,9 @@ Maka muncul result seperti latihan diatas.<br>
 # Latihan 2
 
 Pada **Latihan 2** ini saya diminta untuk membuat program seperti gambar dibawah ini: <br>
-<p align="center">
-
-![Lat2](latihan2/task.png) </p>
+<div align="center">
+<img src="latihan2/task.png" >
+</div>
 <br>
 Untuk membuat program untuk tugas diatas, saya menggunakan source code sebagai berikut: <br> 
 
@@ -70,9 +67,9 @@ for x in range (nilai):
     print('data ke :',a,'==>', i)
 ```
 **Source code diatas akan muncul result sebagai berikut:** <br>
-<p align="center">
-
-![lat2](latihan2/result2.png)</p>
+<div align="center">
+<img src="latihan1/result2.png" >
+</div>
 <br>
 
 **Penjelasan untuk source code diatas adalah sebagai berikut :**
