@@ -18,9 +18,12 @@ Pada Pertemuan ke-7 kemarin, saya mendapat tugas dari Dosen Bahasa Pemrograman s
 Pada **Latihan 1** ini saya diminta untuk membuat program dengan perulangan bertingkat (nested).
 
 **Dibawah ini adalah latihan yang diberikan oleh Dosen :**<br>
-<p align="center">
+<div align="center">
+<img src="(latihan1/task.png" >
+<p>Perfectly balanced</p>
+</div>
 
-![latihan1](latihan1/task.png)</p>
+![latihan1](latihan1/task.png)
 <br>
 <br>
 Untuk membuat program untuk tugas diatas, saya menggunakan source code sebagai berikut: <br>
