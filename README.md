@@ -84,9 +84,13 @@ for x in range (nilai):
 
 
 ***
+<p align="center">
 
-# Sekian tugas saya untuk memenuhi tugas Project Praktikum P7 <br>
-***Terimakasih***<br>
+# Sekian Tugas Saya Untuk Project Praktikum P7 
+</p>
+<br>
+
+# Terimakasih
 <br>
 
 ![wm](pictures/tttd.png)<br>
